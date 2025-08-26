@@ -21,14 +21,17 @@
  .titre{
    @apply text-5xl text-amber-600 font-extrabold p-4
  }
- .titre2{
-    @apply text-3xl text-amber-600 font-extrabold capitalize mt-10 my-4
+ .titre1{
+   @apply text-3xl text-amber-600 font-extrabold capitalize pb-2
  }
+ .titre2{
+  @apply text-3xl text-amber-600 font-extrabold capitalize mt-10 my-4
+}
  .title3{
    @apply text-2xl text-amber-700 dark:text-amber-500 capitalize font-semibold m-2
  }
  .subtitle{
-    @apply text-xl text-amber-700 dark:text-amber-500 capitalize font-semibold m-2
+    @apply text-xl text-amber-700 dark:text-amber-500 capitalize font-semibold m-2 
  }
  .shadow{
     @apply rounded shadow-2xl shadow-slate-700 border-black

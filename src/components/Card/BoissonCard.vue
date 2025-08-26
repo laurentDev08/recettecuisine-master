@@ -1,16 +1,16 @@
 <template>                                   
             <div>
-              <h2 class="titre2">{{ drink.rhumCategory }}</h2> 
+              <h2 class="titre1">{{ drink.rhumCategory }}</h2> 
                  <RouterLink :to="`/boisson/rhum/${drink.id}`">                 
                     <img :src="drink.rhumImg" :alt="drink.rhumAlt">
                 </RouterLink>
-                <p class="subtitle pb-1">{{ drink.rhumTitle }}</p> 
-              <h2 class="titre2">{{ drink.punchCategory }}</h2> 
+                <p class="subtitle ">{{ drink.rhumTitle }}</p> 
+              <h2 class="titre1">{{ drink.punchCategory }}</h2> 
                 <RouterLink :to="`/boisson/punch/${drink.id}`">
                     <img  :src="drink.punchImg" :alt="drink.punchAlt">
                 </RouterLink>
                 <p class="subtitle pb-1 ">{{ drink.punchTitle }}</p>  
-              <h2 class="titre2">{{ drink.jusCategory }}</h2> 
+              <h2 class="titre1">{{ drink.jusCategory }}</h2> 
                 <RouterLink :to="`/boisson/jus/${drink.id}`">
                     <img  :src="drink.jusImg" :alt="drink.jusAlt">
                 </RouterLink>

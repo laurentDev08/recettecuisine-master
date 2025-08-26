@@ -1,7 +1,7 @@
 <template>
-    <div class="text-center pt-8">
+    <div class="text-center pt-4">
         <h1 class="titre">Vos Boissons</h1>
-        <div class="grid grid-cols-4 middle">
+        <div class="grid grid-cols-4 middle ">
             <div v-for="recette in drink.recettes" :key="recette.id">
                 <BoissonCard :drink = recette />               
             </div>

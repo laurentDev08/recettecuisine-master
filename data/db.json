@@ -872,7 +872,7 @@
       "rhumCategory": "rhum",
       "rhumTitle": "Bologne",
       "rhumDescription": "En Guadeloupe, à Basse-Terre, la Distillerie Bologne élabore du rhum agricole de qualité supérieure depuis 1930. Le rhum blanc affichant 50°, grand classique, vous propose de découvrir la richesse de ses parfums légers et de ses saveurs dans tous vos punchs et cocktails qu’il rendra intensément aromatiques. Les rhums Bologne, du nom des propriétaires fondateurs, sont d’excellents rhums agricoles conçus, à base de pur jus de cannes à sucre richement parfumées, en Guadeloupe.",
-      "rhumImg": "https://cecileholiday.com/3300-product_main/rhum-bologne-bouteille-45l-50.jpg",
+      "rhumImg": "/images/bologne.png",
       "rhumAlt": "photo bouteille Bologne",
       "Like": false
     },
@@ -917,7 +917,7 @@
       "punchCategory": "punch",
       "punchTitle": "Bielle Bois Bandé",
       "punchDescription": "Légende pour certains tandis que d’autres y croient dur comme fer, le bois bandé serait aphrodisiaque pour l’homme et la femme ! Issu d’un arbre de la forêt amazonienne - le Muira Puama - le bois bandé lutte contre les coups de mou et ses vertus vasodilatatrices boostent le tonus sexuel, d’où sa réputation d’aphrodisiaque. L’écorce de l'arbre permet d’améliorer les performances sexuelles.",
-      "punchImg": "https://cecileholiday.com/6930-product_main/liqueur-bois-bande-bielle-50cl.jpg",
+      "punchImg": "/images/bois bandé.png",
       "punchAlt": "photo bouteille Bielle Bois Bandé",
       "Like": false
     },
@@ -926,7 +926,7 @@
       "punchCategory": "punch",
       "punchTitle": "Severin Passion",
       "punchDescription": "Ce délicieux Punch Passion est préparé selon la véritable recette antillaise, avec le grand rhum blanc Séverin, du sirop de sucre de canne, de véritables graines et de la pulpe de Fruits de la Passion, fruit exotique particulièrement aromatique et aux notes acidulées très spécifiques. D’une douceur extrême en bouche, ce Punch Passion est une succulente et irrésistible tentation.",
-      "punchImg": "https://cecileholiday.com/304-product_main/severin-punch-passion-70cl-30.jpg",
+      "punchImg": "/images/severin.png",
       "punchAlt": "photo bouteille Severin Passion",
       "Like": false
     },
@@ -935,7 +935,7 @@
       "jusCategory": "jus",
       "jusTitle": "Caresse Antillaise",
       "jusDescription": "Caresse antillaise est la marque référence des jus frais aux saveurs tropicales. Sa gamme très riche et authentique est commercialisée en partie en France métropolitaine et les associations de saveurs très appréciées sont réservés au territoire local.Nectar de goyaves roses sans conservateur et sans colorant. Caresse Antillaise est une références depuis plus de 40 ans.",
-      "jusImg": "https://www.kreyolida.com/wp-content/uploads/Jus-de-fruit-Tropical-Red-Caresse-Antillaise-50cl.jpg",
+      "jusImg": "/images/caresse antillaise.png",
       "jusAlt": "photo bouteille Caresse Antillaise",
       "Like": false
     },
@@ -944,7 +944,7 @@
       "jusCategory": "Jus",
       "jusTitle": "Banga",
       "jusDescription": "Banga est une boisson française à base d'orange appartenant à Schweppes International Limited, Société de Droit Britannique, Londres Créée en 1968 par Pampryl et très populaire dans les années 1980, sa mascotte était un petit singe.En 1999, la marque Banga est rachetée par Oasis et disparaît des rayons de la  métropole. Mais Banga est toujours présente aux Antilles",
-      "jusImg": "https://cecileholiday.com/3027-product_main/banga-goyave-orange-2l.jpg",
+      "jusImg": "/images/banga.png",
       "jusAlt": "photo bouteille Banga",
       "Like": false
     },
@@ -953,7 +953,7 @@
       "jusCategory": "jus",
       "jusTitle": "Royal Soda",
       "jusDescription": "Créé en 1950 en Martinique, Royal Soda est un des premiers sodas embouteillés dans la Caraïbe. De nos jours, il est le leader incontesté du marché, tant en Guadeloupe qu'en Martinique. Patrimoine des Antilles, elle vit avec son temps, avec son usine de progrès, et sa gamme de parfums en constante évolution. Le kampane est un des produits far de la marque!",
-      "jusImg": "https://cecileholiday.com/1277-product_main/royal-soda-orange-pet-6-x-2l.jpg",
+      "jusImg": "/images/royal soda.png",
       "jusAlt": "photo bouteille Royal Soda",
       "Like": false
     },
@@ -962,7 +962,7 @@
       "jusCategory": "jus",
       "jusTitle": "Ordinaire",
       "jusDescription": "La boisson l'ordinaire est une limonade en provenance de la Guadeloupe. C'est une boisson à l'anis qui est produite en Martinique. Elle est très appréciée par les Guadeloupéens et Martiniquais.Cette boisson à l'anis est unique au monde, elle possède un goût qui sort de l'ordinaire.Si vous avez besoin de vous désaltérer, prenez une petite limonade l'Ordinaire, c'est tellement bon !",
-      "jusImg": "https://cecileholiday.com/2776-product_main/soft-ordinaire-2l-x-6.jpg",
+      "jusImg": "/images/ordinaire.png",
       "jusAlt": "photo bouteille Ordinaire",
       "Like": false
     }
